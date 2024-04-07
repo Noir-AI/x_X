@@ -1,7 +1,7 @@
 services:
   # A Docker web service
   - type: web
-    name: Drive Indexer
+    name: x_X
     env: docker
     repo: https://github.com/Noir-AI/x_X.git # optional
     region: Singapore # optional (defaults to oregon)
