@@ -3,7 +3,7 @@ services:
   - type: web
     name: Drive Indexer
     env: docker
-    repo: https://github.com/Noir-AI/drive.git # optional
+    repo: https://github.com/Noir-AI/x_X.git # optional
     region: Singapore # optional (defaults to oregon)
     plan: free # optional (defaults to starter)
     healthCheckPath: /
